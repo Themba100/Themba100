@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thembinkosi Tizifa
-- 👀 I’m interested in software development, artificial intelligence, Augmented Reality, Virtual Reality and cyber security
+- 👀 I’m interested in software development, artificial intelligence, Augmented Reality, Virtual Reality cyber security and anything interesting that is tech based 
 - 🌱 I’m currently learning at University of Malawi Chancellor College
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
